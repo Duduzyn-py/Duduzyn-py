@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Duduzyn-py
 - 👀 I’m interested in learning new things about programming
-- 🌱 I’m currently learning python, JS, HTML and CSS
-- 💞️ I’m looking to collaborate on various prejects
+- 🌱 I’m currently learning C#, Python, JS, HTML and CSS
 - 📫 How to reach me contact: eduardocaitano15@gmail.com
 
 <!---
